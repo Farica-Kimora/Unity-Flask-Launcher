@@ -2,9 +2,9 @@ using System.IO;
 using UnityEngine;
 
 [DisallowMultipleComponent]
-public class PythonLauncher : MonoBehaviour
+public class FlaskLauncher : MonoBehaviour
 {
-    void Start()
+    public static void LaunchFlask()
     {
         // Get the path to the Assets directory
         string projectRootPath = Application.dataPath;
