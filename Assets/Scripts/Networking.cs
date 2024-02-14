@@ -4,7 +4,7 @@ using UnityEngine;
 [DisallowMultipleComponent]
 public class Networking : MonoBehaviour
 {
-    private string url = "http://127.0.0.1:5000/calculate";
+    string url = "http://127.0.0.1:5000/calculate";
 
     void Start()
     {
