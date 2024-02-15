@@ -6,9 +6,6 @@
 ```bash
 pip install -r requirements.txt
 ```
-```bash
-chmod +x setup.sh
-```
  <br>
  <div align="center">
  <a href="https://cursed-entertainment.itch.io/" target="_blank">
